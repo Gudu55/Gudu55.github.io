@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[你好，世界]]></title>
+    <url>%2F20180626%2Fhelloworld.html</url>
+    <content type="text"><![CDATA[hello world]]></content>
+      <categories>
+        <category>其它</category>
+      </categories>
+      <tags>
+        <tag>hello world</tag>
+        <tag>测试文章</tag>
+      </tags>
+  </entry>
+</search>
